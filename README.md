@@ -15,13 +15,13 @@
 Команда для изменения имени пользователя:
 
 ```bash
-$ git config --global user.name "4317 Уряшов М.В."
+$ git config --global user.name "4317 Чёрненькая Ариадна"
 ```
 
 ## 4. Клонирование репозитория
 
 ```bash
-$ git clone https://github.com/witcher770/LR6
+$ git clone https://github.com/Ariiaadna/LR6
 ```
 
 ## 5. Добавление нового файла
