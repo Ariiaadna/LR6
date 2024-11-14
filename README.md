@@ -53,7 +53,7 @@ $ git log -1
 
 *Результат работы команды*
 
-![С5](./screen/Log_-1.png)
+![С5](./screen/log_-1.png)
 
 ## 9. Решение конфликта и слияние веток
 
@@ -93,7 +93,7 @@ $ git reset --hard dacac80
 $ git checkout -b report
 ```
 
-![С5](./screen/report.png)
+![С7](./screen/report_branch.png)
 
 ## 13. Получение истории операций в форматированном виде
 
@@ -108,4 +108,3 @@ $ git log --pretty=format:"%h %ad %an %s" --date=short
 + 921f53b 2020-11-21 Kurtyanik Обновление информации
 + c08a654 2020-11-21 Kurtyanik Файл создан пустым
 + 3c6e913 2020-11-21 Kurtyanik Initial commit
-
